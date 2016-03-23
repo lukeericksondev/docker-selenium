@@ -3,12 +3,7 @@
     {
       "browserName": "firefox",
       "maxInstances": 1,
-      "seleniumProtocol": "WebDriver",
-      "acceptSslCerts": true,
-      "takesScreenshot": false,
-      "javascriptEnabled": true,
-      "browser-version": "44",
-      "cleanSession": true
+      "seleniumProtocol": "WebDriver"
     }
   ],
   "configuration": {
